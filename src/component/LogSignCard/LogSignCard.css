@@ -1,0 +1,38 @@
+.log_sign_card {
+    width: 446.19px;
+    height: 734px;
+    border-radius: 37px;
+    background-color: #12181F;
+    margin-left: 14.69px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4.9px;
+    padding-top: 35px;
+
+
+}
+
+.log_sign_card_title {
+    width: 342px;
+    height: 45px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0em;
+    color: white;
+    text-align: start;
+    margin-left: 50px;
+}
+
+.log_sign_card_p {
+    width: 273.6px;
+    height: 48px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #C3CDDB;
+
+}

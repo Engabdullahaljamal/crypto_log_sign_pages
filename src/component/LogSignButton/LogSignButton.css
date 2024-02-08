@@ -1,0 +1,38 @@
+.log_sign_card_big_button {
+    width: max-content;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #161D26;
+    border: none;
+    margin-right: 135px;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 5px;
+}
+
+.log_sign_card_log_in_button {
+    background-color: #161D26;
+    border: none;
+    color: white;
+    padding: 7px, 18px, 7px, 18px;
+    border-radius: 14px;
+
+}
+
+.log_sign_card_sign_up_button {
+    width: 85px;
+    height: 35px;
+    padding: 7px, 18px, 7px, 18px;
+    border-radius: 14px;
+    background-color: #0CAF60;
+    color: white;
+    border: none;
+}

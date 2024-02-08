@@ -1,0 +1,106 @@
+.qr_logo_con {
+    position: relative;
+    margin-top: 120px;
+}
+
+.qr_logo {
+    width: 191px;
+    height: 191px;
+}
+
+.qrImage {
+    width: 52.86px;
+    height: 52.86px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.log_with_qr {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    height: 36px;
+    margin-top: 22px;
+
+}
+
+.white_p {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: white;
+}
+
+.green_text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #0CAF60;
+}
+
+
+.http_link {
+    width: 273px;
+    height: 31.79px;
+    border-radius: 16px;
+    background-color: #161D26;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 0px 5px;
+    margin-top: 20px;
+}
+
+.BiSolidLock_background {
+    width: 34.21px;
+    height: 24px;
+    border-radius: 16px;
+    background-color: #24AE64;
+    padding: auto;
+
+}
+
+.BiSolidLock {
+    width: 14px;
+    height: 14px;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.http_link a,
+.green_text_http {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 10px;
+
+}
+
+.green_text_http {
+    color: #0CAF60;
+}
+
+.whale_p {
+    width: 271.64px;
+    height: 46px;
+    /* font-family: Poppins; */
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #A4A8AB;
+    margin: auto;
+    margin-top: 70px;
+}

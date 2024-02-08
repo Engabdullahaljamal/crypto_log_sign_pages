@@ -1,0 +1,151 @@
+.log_sign_container {
+    width: 1063px;
+    height: 782px;
+    border-radius: 37px;
+    background-color: #0B0E13;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.background {
+    background-color: #161D26;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 187px 219px; */
+    width: 100% !important;
+    height: 100% !important;
+    padding: 17.49% 14.6% !important;
+
+}
+
+@media screen and (max-width:1100px) {
+    .log_sign_container {
+        flex-direction: column;
+        width: max-content;
+        height: max-content;
+        padding: 60px 0px;
+    }
+
+
+}
+
+
+@media screen and (max-width:920px) {
+    .navbar {
+        width: 100% !important;
+        height: max-content !important;
+        padding: 10px 10px !important;
+        justify-content: center !important;
+        gap: 10px !important;
+
+    }
+
+    .background {
+        padding-top: 200px;
+    }
+}
+
+@media screen and (max-width:700px) {
+
+
+
+    h3 {
+        width: 600px;
+
+    }
+
+    .log_sign_container {
+        width: 80vw;
+    }
+
+    .log_sign_card {
+        width: 45vw;
+    }
+
+    .first_part {
+        gap: 3px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .background {
+        padding: 25% 5%;
+        padding-top: 250px !important;
+    }
+
+}
+
+
+@media screen and (max-width:632px) {
+    * {
+        overflow-x: hidden;
+    }
+
+
+    .icon_style {
+        overflow: visible;
+    }
+
+    .log_sing_sec_car_com {
+        width: 300px !important;
+        height: max-content !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        gap: 10px !important;
+        flex-wrap: wrap !important;
+        text-align: center;
+        left: 120px;
+
+    }
+
+    .log_sing_sec_car_com img {
+        position: static !important;
+        width: 100px !important;
+
+
+
+    }
+
+    .log_sign_container {
+        background-color: #12181F;
+        border: 1px solid #A4A8AB;
+    }
+
+}
+
+@media screen and (max-width:500px) {
+
+    h2,
+    .log_with_qr {
+        font-size: 24px !important;
+
+    }
+
+    h2 {
+        margin-left: 80px !important;
+    }
+
+    .log_with_qr {
+        margin-left: 20px;
+    }
+
+    .button_box {
+        width: 250px !important;
+    }
+
+    .continue_icon_con {
+        left: 200px !important;
+    }
+
+    input {
+        width: 250px !important;
+    }
+
+    .ver_code input {
+        width: 64px !important;
+        height: 64px !important;
+    }
+}

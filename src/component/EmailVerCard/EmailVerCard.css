@@ -1,0 +1,43 @@
+.send_to_container {
+    text-align: left;
+    color: white;
+    margin-right: 100px;
+    margin-top: 40px;
+
+}
+
+.email_style {
+    color: #A4A8AB;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.ver_code {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.ver_code input {
+    width: 64px;
+    height: 64px;
+    margin-top: 30px;
+    border-radius: 25px;
+    background-color: #161D26;
+    border: none;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 60px;
+    
+
+}
