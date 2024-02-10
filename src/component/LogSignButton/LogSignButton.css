@@ -36,3 +36,8 @@
     color: white;
     border: none;
 }
+
+.log_sign_card_big_button a {
+    text-decoration: none;
+    color: white;
+}

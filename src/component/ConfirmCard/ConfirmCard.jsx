@@ -3,7 +3,7 @@ import './ConfirmCard.css'
 import LogSignButton from '../LogSignButton/LogSignButton'
 import ContinueButton from '../ContinueButton/ContinueButton';
 
-function AbsCard({ sec_card, barcode_card, title, desc, green_button, not_green_button, button_one, button_two }) {
+function AbsCard({ sec_card, barcode_card, title, desc, green_button, not_green_button, button_one, button_two, to }) {
     return (
         <div className='log_sign_card'>
             <h2 className='log_sign_card_title'>{title}</h2>
@@ -25,7 +25,7 @@ function AbsCard({ sec_card, barcode_card, title, desc, green_button, not_green_
                     <p className='radio_sec_p'>Er*****de@gmail.com</p></div>
 
             </div>
-            <ContinueButton />
+            <ContinueButton to={to} />
         </div>
     )
 }

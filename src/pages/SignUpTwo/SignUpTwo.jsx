@@ -10,10 +10,13 @@ const green_button = 'log_sign_card_sign_up_button'
 const not_green_button = 'log_sign_card_log_in_button'
 const button_one = 'Login'
 const button_two = 'SignUp'
+const x = 0;
+const to = "/login"
+const first_to = "/login"
 function SignUpTwo() {
     return (
         <div className='background'>
-            <LogSignContainer first_card={<LogSignCard title={title} desc={desc} green_button={green_button} not_green_button={not_green_button} button_one={button_one} button_two={button_two} />} sec_card={<BarcodeContainer />} />
+            <LogSignContainer first_card={<LogSignCard title={title} desc={desc} green_button={green_button} not_green_button={not_green_button} button_one={button_one} button_two={button_two} x to={to} first_to={first_to} />} sec_card={<BarcodeContainer />} />
         </div>
     )
 }

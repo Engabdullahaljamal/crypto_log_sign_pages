@@ -16,6 +16,8 @@
     line-height: 21px;
     letter-spacing: 0em;
     color: white;
+    padding-top: 20px;
+    text-decoration: none;
 }
 
 .continue_icon_con {
@@ -35,6 +37,7 @@
     border: none;
     padding: auto;
     padding-left: 2px;
+    padding-top: 4PX;
 
 
 }

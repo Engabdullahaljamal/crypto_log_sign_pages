@@ -145,7 +145,7 @@
     }
 
     .ver_code input {
-        width: 64px !important;
-        height: 64px !important;
+        width: 50px !important;
+        height: 50px !important;
     }
 }
