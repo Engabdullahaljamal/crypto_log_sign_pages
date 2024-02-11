@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crypto_login_signup_pages/static/css/main.f11d7240.css",
-    "main.js": "/crypto_login_signup_pages/static/js/main.837784cc.js",
-    "static/js/787.a526e8cd.chunk.js": "/crypto_login_signup_pages/static/js/787.a526e8cd.chunk.js",
+    "main.js": "/crypto_login_signup_pages/static/js/main.c3a9d59e.js",
+    "static/js/787.3d6e4e5c.chunk.js": "/crypto_login_signup_pages/static/js/787.3d6e4e5c.chunk.js",
     "static/media/main_logo.png": "/crypto_login_signup_pages/static/media/main_logo.8cd81a1d9c53d077fb20.png",
     "static/media/google.png": "/crypto_login_signup_pages/static/media/google.b31361249fb7518952ee.png",
     "static/media/forget_password_img.jpg": "/crypto_login_signup_pages/static/media/forget_password_img.8c9dc8ba0a4e3ae81d97.jpg",
@@ -15,11 +15,11 @@
     "static/media/logo.svg": "/crypto_login_signup_pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/crypto_login_signup_pages/index.html",
     "main.f11d7240.css.map": "/crypto_login_signup_pages/static/css/main.f11d7240.css.map",
-    "main.837784cc.js.map": "/crypto_login_signup_pages/static/js/main.837784cc.js.map",
-    "787.a526e8cd.chunk.js.map": "/crypto_login_signup_pages/static/js/787.a526e8cd.chunk.js.map"
+    "main.c3a9d59e.js.map": "/crypto_login_signup_pages/static/js/main.c3a9d59e.js.map",
+    "787.3d6e4e5c.chunk.js.map": "/crypto_login_signup_pages/static/js/787.3d6e4e5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f11d7240.css",
-    "static/js/main.837784cc.js"
+    "static/js/main.c3a9d59e.js"
   ]
 }
