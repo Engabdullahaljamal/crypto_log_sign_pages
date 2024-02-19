@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/crypto_log_sign_pages/static/css/main.c44d24ef.css",
-    "main.js": "/crypto_log_sign_pages/static/js/main.302c5270.js",
+    "main.css": "/crypto_log_sign_pages/static/css/main.6bf87adc.css",
+    "main.js": "/crypto_log_sign_pages/static/js/main.1ee1a721.js",
     "static/js/787.a526e8cd.chunk.js": "/crypto_log_sign_pages/static/js/787.a526e8cd.chunk.js",
     "static/media/main_logo.png": "/crypto_log_sign_pages/static/media/main_logo.8cd81a1d9c53d077fb20.png",
     "static/media/google.png": "/crypto_log_sign_pages/static/media/google.b31361249fb7518952ee.png",
@@ -14,12 +14,12 @@
     "static/media/chart1.jpg": "/crypto_log_sign_pages/static/media/chart1.b30af4dd40b4ff6ada58.jpg",
     "static/media/logo.svg": "/crypto_log_sign_pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/crypto_log_sign_pages/index.html",
-    "main.c44d24ef.css.map": "/crypto_log_sign_pages/static/css/main.c44d24ef.css.map",
-    "main.302c5270.js.map": "/crypto_log_sign_pages/static/js/main.302c5270.js.map",
+    "main.6bf87adc.css.map": "/crypto_log_sign_pages/static/css/main.6bf87adc.css.map",
+    "main.1ee1a721.js.map": "/crypto_log_sign_pages/static/js/main.1ee1a721.js.map",
     "787.a526e8cd.chunk.js.map": "/crypto_log_sign_pages/static/js/787.a526e8cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c44d24ef.css",
-    "static/js/main.302c5270.js"
+    "static/css/main.6bf87adc.css",
+    "static/js/main.1ee1a721.js"
   ]
 }
