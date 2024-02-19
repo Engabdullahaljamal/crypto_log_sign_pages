@@ -18,14 +18,12 @@ function App() {
       <NavBar />
 
       <Routes>
-        <Route path='/' element={< SignUpOne />} />
+        <Route path='/crypto_log_sign_pages' element={< SignUpOne />} />
         <Route path='/signup_two' element={< SignUpTwo />} />
         <Route path='/login' element={< LogIn />} />
         <Route path='/forget_password' element={< ForgetPassword />} />
         <Route path='/confirmation' element={< Confirmation />} />
         <Route path='/email_verification' element={< EmailVerification />} />
-
-
       </Routes>
     </div>
   );

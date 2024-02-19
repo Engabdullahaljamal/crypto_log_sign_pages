@@ -80,3 +80,35 @@
     margin-right: 3px;
 
 }
+
+
+@media screen and (max-width:500px) {
+
+
+    .navbar .second_part,
+    .navbar .first_part li {
+        display: none;
+    }
+
+
+
+    .navbar .after {
+        display: block !important;
+    }
+
+    .navbar .first_part {
+        display: flex;
+        justify-content: space-between !important;
+        gap: 150px !important;
+
+    }
+
+    .send_to_container {
+        padding-left: 30px !important;
+    }
+
+    .background {
+        padding: 25% 5%;
+        padding-top: 130px !important;
+    }
+}

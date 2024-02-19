@@ -37,7 +37,7 @@
     border: none;
     padding: auto;
     padding-left: 2px;
-    padding-top: 4PX;
+    padding-top: 4px !important;
 
 
 }
@@ -45,10 +45,4 @@
 .continue_icon {
     width: 30px;
     height: 27px;
-
-
-
-
-
-
 }

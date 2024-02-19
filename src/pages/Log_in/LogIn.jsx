@@ -10,7 +10,7 @@ const green_button = 'log_sign_card_sign_up_button'
 const not_green_button = 'log_sign_card_log_in_button'
 const button_one = 'Login'
 const button_two = 'SignUp'
-const sec_to = "/"
+const sec_to = "/crypto_log_sign_pages"
 const yes = 1;
 const to = "/confirmation"
 function LogIn({ ForgePasswordButton }) {

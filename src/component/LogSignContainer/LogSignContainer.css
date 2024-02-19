@@ -101,6 +101,7 @@
 
     }
 
+
     .log_sing_sec_car_com img {
         position: static !important;
         width: 100px !important;
@@ -147,5 +148,9 @@
     .ver_code input {
         width: 50px !important;
         height: 50px !important;
+    }
+
+    .log_sign_card_big_button {
+        margin-left: 120px !important;
     }
 }

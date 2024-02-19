@@ -15,7 +15,7 @@ function NavBar() {
                     <span>Whale.</span>
                 </div>
 
-                <li> <a href=""><IoAppsSharp className='app_logo' /></a>
+                <li className='after'> <a href=""><IoAppsSharp className='app_logo' /></a>
                 </li>
                 <li> <a href=''>Buy Crypto</a></li>
                 <li> <a href="">Market</a></li>
